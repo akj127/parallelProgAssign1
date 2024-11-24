@@ -2,7 +2,6 @@
 
 ## Author
 **Akhil Jarodia**  
-Student Number: 1010169899  
 Date: October 27, 2024
 
 ### Prerequisites
